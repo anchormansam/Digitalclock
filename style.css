@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(240, 170, 170);
+    background-size: 50%;
+    background-repeat: no-repeat;
+}
+
+h1{
+    font-size: 100px;
+    color:rgb(208, 241, 19);
+    text-align: center;
+}
+
+
+#textwrap{
+    font-size: 200px;
+    text-align: center;
+    vertical-align: middle;    
+}
